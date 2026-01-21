@@ -54,7 +54,7 @@
 header{
     background-color: #FFF8F3;
     background: url("../images/developer.png"),url("../images/header_bg.png"),#FFF8F3;
-    background-position: top left,bottom right;
+    background-position: 23px 38px ,bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
@@ -112,8 +112,8 @@ text-decoration: none;
 }
 
 #banner .banner-image img{
-  max-width: 585px;
-  vertical-align: middle ;
+   max-width: 585px;
+   vertical-align: middle ;
 }
 
 #about , #skills ,#resume {
